@@ -1,2 +1,2 @@
-# intensivao-python
+# Intensivão Python
 Repositório com os códigos desenvolvidos durante o intensivão Python, realizado pela Hashtag Programação, onde
