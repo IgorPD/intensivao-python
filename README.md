@@ -8,6 +8,10 @@
   
 # 2 - Análise de Dados com Python
   Além de Pandas, essa aplicação utiliza também a biblioteca plotly que permite a visualização de gráficos interativos com Python.
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/93355760/182427031-f7ab56c5-0e69-4bfd-8b04-b421b0ca61b8.jpg" width="450px" />
+</div>
+
   ## A aplicação
    Tem como objetivo fazer uma análise exploratória dos dados de uma empresa para compreender o motivo da perca de clientes e buscar direcionadores de causas que levaram os clientes a cancelar o contrato.
   
