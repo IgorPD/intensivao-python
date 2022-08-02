@@ -17,5 +17,9 @@
   
  # 3 - Automação Web e Busca de Informações com Python
   Esse sistema utiliza a Biblioteca de automação web Selenium para buscar as informações na internet com auxilio do WebDriver (neste caso foi usado o Google Chrome para realizar a automação) e lib Pandas também foi utilizada.
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/93355760/182483635-8e0d4763-b21a-46ed-b943-62c492d4ec23.gif" width="450px" />
+</div>
+  
   ## A aplicação
    Essa aplicação irá pesquisar e coletar a cotação do dólar, euro e do ouro, armazenar essas informações e posteriormente preencher a cotação em uma planilha excel automaticamente.
