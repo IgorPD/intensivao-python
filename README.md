@@ -1,5 +1,5 @@
 # Intensivão Python
-  Repositório com os códigos desenvolvidos durante o intensivão Python, realizado pela Hashtag Programação, onde foi desenvolvido 3 projetos de Ciência de Dados.
+  Repositório com os códigos desenvolvidos durante o intensivão Python, realizado pela Hashtag Programação, onde foi desenvolvido 3 projetos com Python.
 
 # 1 - Automação de Sistemas e Processos
    Essa aplicação utiliza-se de uma biblioteca chamada pyautogui para automação de comandos do mouse e do teclado, com auxilio de outra biblioteca chamada pyperclip para copiar e colar funções da área de transferência e também a biblioteca Pandas que fornece ferramentas para análise e manipulação de dados.
